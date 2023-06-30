@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# netstat is a tool that can provide information about network connections
+
+netstat -tunlp
